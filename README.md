@@ -4,7 +4,7 @@ Atomic Threat Coverage did an amazing job with the original framework.
 
 Secure By Choice aims to continue their legacy and make RE&CT 2.0 a little more simple and more maintainable by stripping down the framework back to basics.
 
-# RE&CT
+# RE&CT 2.0
 
 ![](docs/images/logo_v2.png)
 
