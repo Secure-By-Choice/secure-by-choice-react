@@ -6,13 +6,10 @@ Secure By Choice aims to continue their legacy and make RE&CT 2.0 a little more 
 
 # RE&CT 2.0
 
-![](docs/images/logo_v2.png)
-
 The project represents the following:
 
 1. A [framework](https://atc-project.github.io/atc-react/) — knowledge base of actionable Incident Response techniques
 2. A community-driven [collection](docs/Response_Playbooks) of Security Incident Response Playbooks
-3. A data source of the [Atomic Threat Coverage](https://github.com/atc-project/atomic-threat-coverage) framework
 
 ## The RE&CT Framework
 
