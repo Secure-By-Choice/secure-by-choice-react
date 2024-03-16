@@ -13,9 +13,9 @@ The project represents the following:
 1. A [framework](https://atc-project.github.io/atc-react/) — knowledge base of actionable Incident Response techniques
 2. A community-driven [collection](docs/Response_Playbooks) of Security Incident Response Playbooks
 
-## The RE&CT Framework
+## RE&CT 2.0 Framework
 
-The RE&CT Framework is designed for accumulating, describing and classification actionable Incident Response techniques. 
+RE&CT 2.0 Framework is designed for accumulating, describing and classification actionable Incident Response techniques. 
 
 RE&CT's philosophy is based on the [MITRE's ATT&CK](https://attack.mitre.org/) framework.  
 The columns represent [Response Stages](https://atc-project.github.io/atc-react/responsestages/).  
