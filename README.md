@@ -27,23 +27,7 @@ The cells repsresent [Response Actions](#response-action).
 The main use cases:
 
 - Prioritization of Incident Response capabilities development, including skills development, technical measures acquisition/deployment, internal procedures development, etc
-- Gap analysis — determine "coverage" of existing Incident Response capabilities
-
-The main resources:
-
-- [RE&CT Navigator](https://atc-project.github.io/react-navigator/) (modified [ATT&CK Navigator](https://github.com/mitre-attack/attack-navigator)) for visualization and observing the big picture  
-- Automatically generated RE&CT [website](https://atc-project.github.io/atc-react/) is the best place for getting details about existing analytics  
-- Automatically generated [Atlassian Confluence knowledge base](https://atomicthreatcoverage.atlassian.net/wiki/spaces/REACT/pages/755469668/Response+Stages) - exporting functionality demonstration  
-
-## Actionable Analytics
-
-The ATC RE&CT project inherits the "Actionable Analytics" paradigm from the [ATC](https://github.com/atc-project/atomic-threat-coverage) project, which means that the analytics are:
-
-- **human-readable** (`.md`) for sharing/using in operations
-- **machine-readable** (`.yml`) for automatic processing/integrations
-- **executable** by Incident Response Platform ([TheHive Case Templates](docs/thehive_templates/) only, at the moment)
-
-Simply saying, the analytics are stored in `.yml` files, that are automatically converted to `.md` documents (with [jinja](https://palletsprojects.com/p/jinja/)) and `.json` TheHive Case Templates.
+- Gap analysis — determine "coverage" of existing Incident Response capabilities 
 
 ### Response Action
 
@@ -180,16 +164,6 @@ Originally analytics related to Incident Response were part of the ATC, but we d
 - Christoph Bott, [@xofolowski](https://github.com/xofolowski)  
 
 Would you like to become one? You are very welcome! Our [CONTRIBUTING](CONTRIBUTING.md) guideline is a good starting point.
-
-## Roadmap
-
-The roadmap and related discussions could be found in the project [issues](https://github.com/atc-project/atc-react/issues) by labes:
-
-- [Discussions](https://github.com/atc-project/atc-react/issues?q=is%3Aissue+is%3Aopen+label%3Adiscussion)
-- [Questions](https://github.com/atc-project/atc-react/issues?q=is%3Aissue+is%3Aopen+label%3Aquestion)
-- [Enhancements](https://github.com/atc-project/atc-react/issues?q=is%3Aissue+is%3Aopen+label%3Aenhancement)
-- [Response Actions development](https://github.com/atc-project/atc-react/issues?q=is%3Aissue+is%3Aopen+label%3ARA-dev)
-
 ## License
 
 See the [LICENSE](LICENSE) file.
